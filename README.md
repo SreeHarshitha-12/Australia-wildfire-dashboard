@@ -25,10 +25,4 @@ An interactive dashboard built using *Dash, **Plotly, and **Pandas* to visualize
 
 ---
 
-## 🚀 Getting Started
 
-### 📁 Clone the Repository
-
-```bash
-git clone https://github.com/TheAbhi2004/Australia-Wildfire-Dashboard.git
-cd Australia-Wildfire-Dashboard
